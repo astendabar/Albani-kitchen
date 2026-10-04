@@ -1,0 +1,2857 @@
+[
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Loaded Hummus Bowl (V)",
+    "description": "Makes 4 servings (1½ cups per serving)[span_0](start_span)[span_0](end_span). Recipes with a (V) indicate a vegetarian selection[span_1](start_span)[span_1](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "4 garlic cloves, divided",
+      "1 large lemon, juiced",
+      "One 14.5-ounce can chickpeas, drained and rinsed",
+      "1/2 teaspoon baking soda",
+      "1/3 cup tahini",
+      "Sea salt",
+      "2 tablespoons olive oil",
+      "12 ounces tempeh, crumbled",
+      "1 teaspoon sea salt",
+      "1 teaspoon freshly ground black pepper",
+      "1 teaspoon cumin",
+      "1/2 teaspoon coriander",
+      "1/2 teaspoon cayenne pepper",
+      "4 cups spinach or baby kale",
+      "1/2 cup pitted Castelvetrano olives, chopped",
+      "1/2 red onion, diced",
+      "1 cup cherry tomatoes, halved",
+      "1/4 cup roasted pumpkin seeds",
+      "Extra-virgin olive oil",
+      "Sumac, cumin, or paprika"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Crush 2 of the garlic cloves with the flat side of your knife. Place them in a small bowl and cover them with the lemon juice. Set aside so the raw garlic can begin to mellow out in the acidic juice while you cook the chickpeas."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the chickpeas, 1/2 teaspoon baking soda, and the remaining 2 garlic cloves in a large saucepan. Cover with water and bring to a boil over high heat. Once the mixture begins to boil, turn the heat down to medium and continue to boil gently for 25 to 30 minutes, or until the chickpeas are so tender that their skins are starting to fall off."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Strain the cooked chickpeas and garlic and transfer to a food processor. Add in the garlic with the lemon juice and tahini. Blend until smooth, and then slowly stream some filtered water into the food processor while it's running, adding just enough to help turn the texture from slightly grainy to a perfect velvety consistency. (This shouldn't take more than a couple of tablespoons.) Add the sea salt to taste, then set aside and prepare the tempeh and greens."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the olive oil in a large skillet over medium-high heat. Add the crumbled tempeh and the next 5 ingredients. Stir and cook for a few minutes until the tempeh begins to turn golden and crisp at the edges, then add in the greens. Cook for another 1 to 2 minutes, just until the greens are slightly wilted."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Divide the hummus among 4 bowls, using the back of a spoon to create an even, wavy layer. Divide the tempeh and greens equally among the bowls, then top each serving with the olives, onions, tomatoes, and pumpkin seeds. Finish each bowl with a slight drizzle of olive oil and a dusting of sumac."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "31g",
+      "carbohydrateContent": "24g",
+      "proteinContent": "28g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Shaved Brussels Sprout Salad with Chicken and Ginger Miso Dressing",
+    "description": "Makes 4 servings (1 1/2 cups per serving)[span_2](start_span)[span_2](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "2 boneless, skinless chicken breasts, halved",
+      "1 teaspoon sea salt",
+      "1 teaspoon freshly ground black pepper",
+      "1 teaspoon garlic powder",
+      "1/2 teaspoon onion powder",
+      "2 tablespoons avocado oil",
+      "4 cups brussels sprouts, trimmed and shaved",
+      "4 scallions, roots trimmed, sliced thin",
+      "1/4 cup slivered almonds",
+      "2 tablespoons whole flaxseeds",
+      "2 tablespoons toasted sesame seeds",
+      "1/4 cup avocado oil",
+      "1 tablespoon toasted sesame oil",
+      "3 tablespoons rice vinegar",
+      "3 tablespoons coconut aminos",
+      "1 tablespoon freshly grated ginger",
+      "2 teaspoons white miso paste",
+      "1 garlic clove, grated"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Season all sides of the chicken with salt, pepper, garlic powder, and onion powder. Heat the avocado oil in a large skillet over medium-high heat. Add the chicken to the heated oil and cook for 5 to 6 minutes per side, or until golden and cooked through. Remove from the heat and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss together all the ingredients for the salad in a large bowl. Place all the ingredients for the dressing in a medium bowl and whisk until fully combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the chicken into bite-size pieces and add to the bowl of brussels sprout salad. Add the dressing, toss, and serve."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "15g",
+      "carbohydrateContent": "8g",
+      "proteinContent": "28g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Shakshuka with Pickled Onions and Avocado",
+    "description": "Makes 4 servings (about 1 1/2 cups per serving)[span_3](start_span)[span_3](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "2 tablespoons olive oil",
+      "1 yellow onion, peeled and diced",
+      "4 garlic cloves, minced",
+      "1 red bell pepper, seeded and diced",
+      "3 tablespoons tomato paste",
+      "2 tablespoons harissa",
+      "1 teaspoon sea salt",
+      "1 teaspoon freshly ground black pepper",
+      "1 teaspoon cumin",
+      "1/2 teaspoon paprika",
+      "One 28-ounce can crushed tomatoes",
+      "2 cups baby kale",
+      "8 eggs",
+      "1 large avocado, pitted, scooped out of the skin, and sliced",
+      "1 cup pickled red onion",
+      "1/4 cup chopped cilantro"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place the olive oil in a large skillet over medium-high heat. Add the onion and cook for about 2 minutes, or until it starts to become translucent, then add in the garlic and bell pepper. Cook for another 2 minutes, then stir in the tomato paste, harissa, salt, pepper, cumin, and paprika. Stir and cook until the mixture becomes fragrant."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the crushed tomatoes, and if the sauce starts to boil or sputter, turn the heat down to a lower setting. Let the mixture simmer for 20 minutes (it will thicken slightly)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the kale and cook until it wilts. Gently add in the eggs, one at a time, keeping the yolks intact. Cover the pan and cook for another 5 to 6 minutes, or until the eggs are set and the yolks are cooked to your preferred doneness."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the shakshuka topped with the avocado, pickled onion, and cilantro."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "42g",
+      "carbohydrateContent": "27g",
+      "proteinContent": "25g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Kimchi Salad with Crispy Chickpeas (V)",
+    "description": "Makes 4 servings (2 cups per serving)[span_4](start_span)[span_4](end_span). Recipes with a (V) indicate a vegetarian selection[span_5](start_span)[span_5](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "2 tablespoons olive oil",
+      "One 14.5-ounce can chickpeas, drained and rinsed",
+      "1/2 teaspoon sea salt",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon turmeric",
+      "1/2 teaspoon cumin",
+      "1/4 cup avocado oil",
+      "3 tablespoons rice vinegar",
+      "3 tablespoons coconut aminos",
+      "1 garlic clove, grated",
+      "Sea salt",
+      "Freshly ground black pepper",
+      "1 cup kimchi, drained and chopped",
+      "1 head of romaine lettuce, trimmed and chopped",
+      "2 cups baby spinach",
+      "8 radishes, trimmed and thinly sliced",
+      "2 tablespoons hemp seeds",
+      "2 tablespoons sesame seeds"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat the olive oil in a large skillet over medium-high heat. Add the chickpeas to the skillet."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the salt, garlic powder, onion powder, turmeric, and cumin in a small bowl. Sprinkle the spice mixture over the chickpeas. Stir to distribute the spices evenly and cook until the chickpeas start to become golden and crispy along the edges. Remove from the heat and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the avocado oil, vinegar, coconut aminos, and garlic in a small bowl. Whisk together and season the dressing with salt and pepper to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss the salad components together in a large bowl. Scatter the crispy chickpeas on top of the salad, drizzle with the dressing, then toss and serve."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "47g",
+      "carbohydrateContent": "20g",
+      "proteinContent": "27g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Almond Chicken Tenders and Sauerkraut Slaw",
+    "description": "Makes 4 servings (3 chicken tenders over 1/2 cup sauerkraut per serving)[span_6](start_span)[span_6](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "2 cups sauerkraut, drained",
+      "2 celery stalks, thinly sliced",
+      "1 large Granny Smith apple, cored, halved, and thinly sliced",
+      "1/4 cup apple cider vinegar",
+      "1/4 cup roasted pumpkin seeds, hemp seeds, or flaxseeds",
+      "2 tablespoons avocado oil",
+      "1/2 cup almond meal",
+      "3 tablespoons nutritional yeast",
+      "1 1/2 teaspoons sea salt",
+      "1 teaspoon freshly ground black pepper",
+      "1 teaspoon paprika",
+      "1 teaspoon garlic powder",
+      "1/2 teaspoon onion powder",
+      "1 egg",
+      "1/2 cup unsweetened almond milk",
+      "1 pound chicken tenderloins",
+      "2 tablespoons avocado oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 400°F. Line a baking sheet with parchment paper and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine all the ingredients for the slaw in a large bowl and toss to combine. Season with salt to taste, if desired, then cover and place in the refrigerator while you make the tenders."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the almond meal, yeast, salt, pepper, paprika, garlic powder, and onion powder in a large shallow bowl or pie plate. Whisk together the egg and almond milk in a separate wide-brimmed bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Set up a dredging station. Start by dipping both sides of a chicken tender into the egg mixture, then gently press and roll the chicken in the almond meal coating. Place the chicken on the prepared baking sheet once it's fully coated. Repeat until all the tenders are coated. Gently brush the oil over the top of the tenderloins. Place in the oven and bake for 35 to 40 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the chicken tenders with a helping of the slaw."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "35g",
+      "carbohydrateContent": "13g",
+      "proteinContent": "49g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Garlic-Ginger Tempeh and Broccoli Over Quinoa (V)",
+    "description": "Makes 4 servings (about 2 cups per serving)[span_7](start_span)[span_7](end_span). Recipes with a (V) indicate a vegetarian selection[span_8](start_span)[span_8](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "6 garlic cloves, minced",
+      "2 tablespoons freshly grated ginger",
+      "2 tablespoons toasted sesame oil",
+      "1 1/2 cup coconut aminos",
+      "1 large lemon, juiced and zested",
+      "2 tablespoons avocado oil",
+      "12 ounces tempeh, cut into thin strips or crumbled",
+      "2 cups broccoli florets",
+      "Sea salt",
+      "Freshly ground pepper",
+      "1 cup quinoa, prepared according to the package instructions",
+      "1 1/2 cups kimchi"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine the first 5 ingredients in a medium bowl. Whisk together and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the oil in a large skillet over medium-high heat. Add the tempeh, cooking until the edges begin to turn golden brown, then add the broccoli. Season with salt and pepper to taste and cook for about 4 minutes. Reduce heat to medium and pour in the garlic-ginger mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook until the sauce thickens and the broccoli is fork tender. Serve over the prepared quinoa with a side of kimchi."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "31g",
+      "carbohydrateContent": "35g",
+      "proteinContent": "40g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Kimchi Stew with Tofu (V)",
+    "description": "Makes 4 servings (about 1 1/2 cups per serving)[span_9](start_span)[span_9](end_span). Recipes with a (V) indicate a vegetarian selection[span_10](start_span)[span_10](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "2 tablespoons avocado oil",
+      "1 yellow onion, diced",
+      "6 garlic cloves, minced",
+      "3 cups kimchi, chopped",
+      "2 tablespoons chili paste",
+      "5 cups vegetable broth",
+      "1 15 ounce can cannellini or navy beans, drained and rinsed",
+      "Sea salt",
+      "Freshly ground black pepper",
+      "12 ounces extra-firm tofu, cubed",
+      "4 scallions, thinly sliced",
+      "1/4 cup cilantro, chopped",
+      "Toasted sesame oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat the avocado oil in a large pot over medium-high heat. Add the onion and garlic and cook for 2 to 3 minutes, or until the onion starts to become translucent."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the kimchi and chili paste. Stir and cook for 1 minute, then pour in the broth, add the beans, and season with salt and pepper to taste. Once the mixture begins to boil, reduce the heat to medium-low, then cover and simmer for 20 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the tofu to the pot, cover, and cook for another 15 minutes. If the stew is boiling before you add the tofu, turn down the heat to a simmer."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the stew with the scallions, cilantro, and a drizzle of toasted sesame oil on top."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "22g",
+      "carbohydrateContent": "20g",
+      "proteinContent": "41g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Prosciutto, Spinach, and Asparagus Frittata",
+    "description": "Makes 8 servings (1 slice per serving)[span_11](start_span)[span_11](end_span).",
+    "recipeYield": "8 servings",
+    "recipeIngredient": [
+      "8 eggs",
+      "1/2 cup unsweetened almond milk",
+      "1/2 cup nutritional yeast",
+      "1 teaspoon sea salt",
+      "1 teaspoon freshly ground black pepper",
+      "2 tablespoons ghee",
+      "1 large shallot, finely diced",
+      "3 garlic cloves, minced",
+      "4 ounces prosciutto, chopped",
+      "1 pound asparagus, woody ends removed, cut into 2- to 3-inch pieces",
+      "3 cups spinach"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 350°F. Heat a large cast-iron pan (or other oven-safe pan) over medium-high heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the eggs, almond milk, yeast, salt, and pepper in a medium bowl. Whisk thoroughly and set aside. Add in the ghee once the pan becomes hot."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wait for the ghee to melt, then add in the shallot and garlic. Cook for 1 to 2 minutes, or until the shallot starts to become translucent, then add in the prosciutto. Cook for another 3 to 4 minutes. Add the asparagus once the prosciutto starts to become golden and crispy."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook until the asparagus becomes bright green, then add in the spinach and cook for a couple of minutes, or until the spinach wilts."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the egg mixture over the sautéed vegetables. Cook for 3 to 4 minutes, or just until the bottom of the frittata begins to set. Transfer the frittata to the oven and bake for 15 minutes, or until the eggs are cooked through at the center. Cut the frittata like a pie and serve."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "20g",
+      "carbohydrateContent": "8g",
+      "proteinContent": "33g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Brats with Sautéed Apples and Onions (Serve with Sauerkraut)",
+    "description": "Makes 4 servings (1 1/2 cups per serving)[span_12](start_span)[span_12](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "2 tablespoons olive oil",
+      "1 pound brats, cut into medallions",
+      "1 large onion, halved and thinly sliced",
+      "2 Granny Smith apples, cored, peeled, and thinly sliced",
+      "1/4 cup apple cider vinegar",
+      "1/4 cup seeds such as flax, pumpkin, hemp, or a combo of all 3",
+      "1 teaspoon smoked paprika",
+      "Sea salt",
+      "Freshly ground black pepper",
+      "1 1/2 cups sauerkraut"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat the olive oil in a large skillet over medium-high heat. Add the brats, stirring to sear evenly, and cook for about 2 minutes. Add in the onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue cooking for 5 to 6 minutes, or until the onion becomes soft and translucent (close to caramelized). Add in the apples, vinegar, seeds, and paprika and season with salt and pepper to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook for another few minutes, or until the apples are tender and the liquid has reduced by more than half. Serve with a scoop of sauerkraut."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "55g",
+      "carbohydrateContent": "20g",
+      "proteinContent": "26g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Coconut and Kale Lentil Soup (V)",
+    "description": "Makes 4 servings (1 1/2 cups per serving)[span_13](start_span)[span_13](end_span). Recipes with a (V) indicate a vegetarian selection[span_14](start_span)[span_14](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "1 cup unsweetened shredded coconut",
+      "2 tablespoons avocado oil",
+      "1 yellow onion, diced",
+      "6 garlic cloves, minced",
+      "2 tablespoons freshly grated ginger",
+      "2 tablespoons red curry paste",
+      "1 cup red split lentils",
+      "5 cups vegetable broth",
+      "1 teaspoon salt",
+      "1 teaspoon freshly ground black pepper",
+      "One 14.5-ounce can full-fat coconut milk",
+      "4 cups kale, stems removed, chopped",
+      "1/4 cup seeds of your choosing (pumpkin, flax, hemp)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat a large pot over medium-high heat. Once the pot is hot, add the shredded coconut. Dry toast the coconut in the pot, stirring continuously, until it starts to turn a light golden brown. Immediately transfer the toasted coconut to a medium bowl and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Return the pot to the stove and add the avocado oil. Add the onion and cook for 2 to 3 minutes, or until it just starts to become translucent, then add in the garlic and ginger. Stir and cook for less than a minute, then add in the red curry paste. Continue to stir over the heat until the mixture becomes fragrant."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the lentils, broth, salt, pepper, and the reserved toasted coconut. Once the mixture boils, reduce the heat to medium-low, cover, and simmer for 25 to 30 minutes, or until the lentils are tender and cooked through."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the coconut milk and kale a few minutes before serving. Keep the soup over the heat until the kale wilts. Season the soup with more salt and pepper to taste and serve with a sprinkle of seeds on top."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "40g",
+      "carbohydrateContent": "24g",
+      "proteinContent": "21g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Pulled Pork in Bone Broth",
+    "description": "Makes 12 servings (1 cup per serving)[span_15](start_span)[span_15](end_span).",
+    "recipeYield": "12 servings",
+    "recipeIngredient": [
+      "1 teaspoon salt (or to taste)",
+      "1/2 teaspoon pepper (or to taste)",
+      "6 pounds pork shoulder",
+      "8 cups Basic Beef Bone Broth (see page 266)",
+      "Juice of 2 lemons",
+      "2 tablespoons ground cumin",
+      "3 to 4 bay leaves",
+      "2 tablespoons ground herbes de Provence",
+      "1/2 teaspoon cayenne pepper",
+      "1/4 cup chopped cilantro",
+      "1 medium organic yellow onion, cored",
+      "1 teaspoon arrowroot powder"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Braising can be done in 4 ways. Here are the fastest to slowest methods: pressure cooker (1 hour), stovetop (3 to 4 hours), oven (4 to 8 hours), or slow cooker (also 4 to 8 hours). The slow cooker method is the least time intensive; it should hold 6-plus quarts (that's what these directions are for)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle salt and pepper over the entire pork shoulder. Heat a large frying or sauté pan on medium-high heat. Place the meat in the pan and sear each side to a light golden brown. This is an important step because you're doing 2 things that are going to make your final dish delicious: sealing in moisture and creating flavor. All the crusty bits are full of flavor that will transfer to your braising liquid."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Boil the Basic Beef Bone Broth and lemon juice with the spices before putting the mixture into the slow cooker."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put the liquids, meat, and onion into the slow cooker and cook on low for 8 hours. Note that the liquid should just cover the meat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When you're finished cooking, you can set aside some of the Basic Beef Bone Broth to mix in with the shredded meat, but first you'll want to thicken it a little bit with some arrowroot powder. This is done by mixing a little hot liquid with a teaspoon of arrowroot powder at a time, thoroughly blending, then adding it back to your reserved liquid for sauce."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the meat from the slow cooker and shred, using 2 forks, and add the thickened sauce."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "3g",
+      "carbohydrateContent": "1g",
+      "proteinContent": "25g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Bacon-Avo-Egg (Bacon, Avocado, Egg)",
+    "description": "Makes 4 servings (1 avocado per serving)[span_16](start_span)[span_16](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "4 large avocados",
+      "1 teaspoon salt",
+      "1/4 cup raw apple cider vinegar",
+      "4 large free-range chicken or duck eggs",
+      "16 slices hormone-free bacon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Halve the avocados and discard the seeds. Scoop a small amount of avocado out of the center to make room for the poached egg that will go inside. Carefully peel off the avocado skin. Set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fill a saucepan with 3 to 4 inches of water. Add 1/2 teaspoon of salt and the apple cider vinegar and bring to a boil. Poach eggs for 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Carefully place 1 poached egg into one half of an avocado and close it inside by covering with the other half. Wrap each avocado with approximately 4 slices of bacon."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Set a curved pan over high heat. Sear the bacon on the outside of the avocado, rotating it slowly until it's crispy and golden brown all around. Leaning the avocado along the edge of a curved pan is a great way to sear the curved areas. Once the bacon starts to cook and get crisp, it will create a shell and hold the avocado together and the egg inside. Serve immediately."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "59g",
+      "carbohydrateContent": "9g",
+      "proteinContent": "117g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Roasted Leg of Lamb",
+    "description": "Makes 20 servings (4 ounces per serving)[span_17](start_span)[span_17](end_span).",
+    "recipeYield": "20 servings",
+    "recipeIngredient": [
+      "5 pounds boneless leg of lamb",
+      "8 fresh rosemary sprigs",
+      "Zest and juice of 2 lemons",
+      "1 tablespoon minced garlic",
+      "1/4 cup avocado oil",
+      "2 teaspoons salt",
+      "1 teaspoon ground pepper",
+      "Two 10-gallon clear plastic garbage bags"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place all the ingredients into 2 (for extra strength) 10-gallon clear plastic garbage bags. Take extra care when adding the rosemary sprigs to make sure they don't puncture the plastic. Get all the air out of the bags and tie a knot at the top; this makes sure that the entire leg of lamb gets marinated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the lamb in a bowl or on a dish (just in case it leaks) and set in the fridge to marinate for 4 hours or up to 2 days."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the lamb on the grill over medium heat for 45 minutes, or until cooked through. Or start it on the grill to get color and then finish it in the oven set at 375°F for 45 minutes or until done."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "17g",
+      "carbohydrateContent": "0g",
+      "proteinContent": "21g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "The Best Roasted Chicken",
+    "description": "Makes 4 servings (4 ounces per serving)[span_18](start_span)[span_18](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "1 whole chicken",
+      "3 lemons, sliced",
+      "5 fresh rosemary sprigs",
+      "1 teaspoon sea salt",
+      "1/2 teaspoon ground pepper",
+      "Dash of paprika"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 375°F."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare a roasting pan by covering it with parchment paper and tucking the edges between the drip pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Butterfly your chicken by removing the spine. You can do this either with sturdy kitchen shears or with a knife. By removing the spine, you can flatten the chicken out on the roasting pan so that it cooks more evenly and in less time, all the while staying moist on the inside and crispy on the outside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Create a bed of lemon slices and rosemary sprigs in the bottom of the parchment-lined roasting pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the chicken on top of the lemons and rosemary. Sprinkle with the salt, pepper, and paprika."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roast the chicken for 45 to 55 minutes, or until the juices run clear."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "6g",
+      "carbohydrateContent": "0g",
+      "proteinContent": "25g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Ketobiotic Waffles",
+    "description": "Makes 16 waffles (2 waffles per serving)[span_19](start_span)[span_19](end_span).",
+    "recipeYield": "16 waffles",
+    "recipeIngredient": [
+      "3 cups blanched almond flour",
+      "1/4 cup shredded coconut, unsweetened",
+      "1 teaspoon baking powder",
+      "1/4 teaspoon sea salt",
+      "1/2 teaspoon ground cinnamon",
+      "2/3 cup coconut milk",
+      "1/4 cup maple syrup",
+      "2 teaspoons vanilla extract",
+      "5 free-range eggs, yolks and whites separated",
+      "1/3 cup grass-fed butter, softened"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Turn on your waffle iron to the desired setting."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine all the dry ingredients in a medium bowl and stir until evenly mixed."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cream the coconut milk, maple syrup, vanilla, egg yolks, and butter in a large bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Beat the egg whites to a soft peak in a separate medium bowl. Gently fold the egg whites into the egg-yolk mixture in the large bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently fold the dry ingredients into the creamed liquid ingredients until fully incorporated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a 2-ounce ladle, position a dollop of batter onto the center of the waffle square. Cook per the waffle iron instructions (approximately 4 minutes). Continue cooking until all the waffle batter is used."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "23g",
+      "carbohydrateContent": "3g",
+      "proteinContent": "5g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Crustless Everything Quiche",
+    "description": "Makes 8 servings (1 slice per serving)[span_20](start_span)[span_20](end_span).",
+    "recipeYield": "8 servings",
+    "recipeIngredient": [
+      "1 cup diced onion, sautéed until clear",
+      "3 cups (total) of whatever you have in your kitchen, such as:",
+      "1 cup frozen organic spinach, thawed, squeezed, finely diced",
+      "1 cup diced bacon, cooked",
+      "1 cup diced (1/2-inch cubes) butternut squash",
+      "1 cup diced roasted red bell peppers",
+      "3 cups (total) of whatever cheese you have, such as:",
+      "1 1/2 cups shredded goat cheddar cheese",
+      "1 1/2 cups shredded raw Parmesan cheese",
+      "8 large free-range eggs, beaten",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "1 teaspoon of the herb of your choice (mine is herbes de Provence)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 350°F. Lightly grease an 8-inch square baking dish with butter."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prep your ingredients: Sauté the onion. Thaw, squeeze, and chop the spinach. Cook and chop the bacon. Dice the roasted bell pepper. Grate the cheeses."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Beat the eggs, then add the salt, pepper, and spices."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix all the ingredients together in a large bowl. Pour the mixture into the greased baking dish. Bake for 30 to 40 minutes, or until a toothpick inserted in the center comes out clean."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "20g",
+      "carbohydrateContent": "15g",
+      "proteinContent": "11g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Breadcrumb-Free Crab Cakes",
+    "description": "Makes 6 crab cakes (1 crab cake per serving)[span_21](start_span)[span_21](end_span).",
+    "recipeYield": "6 crab cakes",
+    "recipeIngredient": [
+      "1/2 head of cauliflower, riced, steamed, and water extracted (1 cup when finished)",
+      "5 free-range eggs",
+      "3 tablespoons Garlic Avocado Aioli (Store-bought is fine)",
+      "1/4 cup finely chopped curly parsley",
+      "1/2 teaspoon sea salt",
+      "1/4 teaspoon ground pepper",
+      "1/2 teaspoon cayenne pepper",
+      "1/2 teaspoon paprika",
+      "1 teaspoon fresh dill",
+      "6 tablespoons coconut flour",
+      "1 pound responsibly sourced crabmeat, cooked",
+      "2 tablespoons avocado oil or coconut oil (for searing)",
+      "Lemon juice to taste"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rice the cauliflower in a powerful blender or food processor. Steam for 10 minutes. Squeeze out the excess liquid, either with cheesecloth, a kitchen towel, or a nut milk bag. Set aside to cool."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk together the eggs, Garlic Avocado Aioli, and spices in a small bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently fold the cold cauliflower with the egg mixture and coconut flour in a medium bowl until evenly mixed. (It's important that the cauliflower is cold so that it won't cook the eggs.) The cauliflower and the coconut flour give the finished crab cakes a nice, crispy outside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently fold in the crabmeat, being careful not to break up the meat too much. (It's nice when the finished crab cakes have large chunks of meat in them.)"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cool the mixture in the fridge for 15 minutes, and preheat the oven to 350°F. Make the patties, approximately 1 inch thick and 3 inches across."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the oil into a cast-iron (recommended) pan set over medium-high heat. When the pan and oil are hot, add the crab cakes, being careful not to overcrowd the pan (this will cause steaming, not searing). Cook the crab cakes for about 3 minutes to a golden brown, then flip over and cook another 3 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the pan-fried crab cakes to a baking sheet and place in the oven to cook through, about 12 to 15 minutes. Squeeze the lemons over the patties to taste."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "4g",
+      "carbohydrateContent": "2g",
+      "proteinContent": "10g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Healthy Chicken Nuggets",
+    "description": "Makes 48 chicken nuggets (6 nuggets per serving)[span_22](start_span)[span_22](end_span).",
+    "recipeYield": "8 servings (48 nuggets total)",
+    "recipeIngredient": [
+      "8 boneless, skinless free-range hormone-free chicken breasts",
+      "3 cups quinoa flour",
+      "2 teaspoons garlic powder",
+      "2 teaspoons sea salt",
+      "2 teaspoons ground black pepper",
+      "4 eggs, beaten",
+      "1 cup coconut oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cut the chicken into nugget-shaped pieces (about 6 nuggets per chicken breast)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the flour, garlic powder, salt, and pepper thoroughly in a shallow dish. Dip the chicken pieces individually into the beaten eggs, then coat each side lightly with the flour mixture. Shake off any excess flour before placing on a plate; continue until all the chicken has been coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Liberally coat a large nonreactive skillet or saucepan (cast iron is my favorite) with coconut oil. You want to use enough so that the chicken nuggets don't have dry spots but not so much that they're soggy."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sauté the nuggets for 4 minutes on each side until golden brown. You may need to pause between batches to quickly clean the pan of any small bits that remain; those tend to burn if not removed, making the conditions less than ideal for the fresh nuggets."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "You'll know that your nuggets are done when they're golden brown and no longer pink in the center. This will be about 12 minutes per batch."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "29g",
+      "carbohydrateContent": "3g",
+      "proteinContent": "48g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Purple Gold Kraut (V)",
+    "description": "Makes 14 cups (1 cup per serving)[span_23](start_span)[span_23](end_span). Recipes with a (V) indicate a vegetarian selection[span_24](start_span)[span_24](end_span).",
+    "recipeYield": "14 cups",
+    "recipeIngredient": [
+      "2 heads of organic red cabbage, shredded",
+      "1/3 cup fresh organic turmeric, finely grated",
+      "1/2 cup fresh organic ginger, finely grated",
+      "2 tablespoons sea salt",
+      "2 tablespoons apple cider vinegar",
+      "4 cups purified water (additional brine)",
+      "4 teaspoons sea salt (additional brine)",
+      "4 teaspoons apple cider vinegar (additional brine)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Pull 4 to 5 large leaves off of 1 of the heads of cabbage and set aside. Shred the remaining cabbage."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the shredded cabbage, turmeric, ginger, salt, and vinegar in a large bowl. (Use a stainless steel bowl because the turmeric won't stain it bright yellow.) Wearing gloves to keep your hands from getting stained, massage the cabbage mixture with your hands until it breaks down and starts to soften, about 5 to 10 minutes. Let the mixture sit for 20 to 30 minutes to give it time to continue to macerate and release more juices."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Massage the mixture for another 5 to 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pack the cabbage mixture into two 36-ounce mason jars with a large, long-handled spoon. Pack the mixture in tightly, all the way down to the bottom. You want the mixture to be submerged in brine (the natural juices created through the maceration process). Leave about 1 1/2 inches of space from the top of the jar."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Typically you will need to make additional brine. This is done by combining water with the sea salt and apple cider vinegar. Continue to add brine until the cabbage mixture is submerged."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roll up the cabbage leaves you set aside and place them in the jar to push the cabbage under the brine. Screw the jar lid on loosely so gas can escape as fermentation takes place. Set on the counter for 5 to 14 days in a cool, shaded place. During fermentation, the sauerkraut will bubble a little and become cloudy. If scum or mold appears at the top or on the whole cabbage leaves, remove and discard; replace with new cabbage leaves to keep the cabbage submerged."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Taste the sauerkraut every day. When you like the flavor, remove the rolled-up cabbage leaves and place the sauerkraut in the refrigerator, which slows down the fermentation process."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "0g",
+      "carbohydrateContent": "2g",
+      "proteinContent": "0g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Yellow Cauliflower Tortillas",
+    "description": "Makes 12 tortillas (2 tortillas per serving)[span_25](start_span)[span_25](end_span).",
+    "recipeYield": "6 servings (12 tortillas total)",
+    "recipeIngredient": [
+      "2 heads of cauliflower, steamed (yields approximately 8 cups chopped cauliflower)",
+      "1 cup chopped green onions (approximately 2 bunches)",
+      "5 large free-range eggs, beaten",
+      "1/2 teaspoon sea salt",
+      "1/2 teaspoon finely ground black pepper",
+      "1/2 teaspoon ground turmeric",
+      "3/4 teaspoon xanthan gum"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 350°F."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Steam the cauliflower heads until tender, about 4 to 5 minutes. Blend the cauliflower and green onions in a food processor or powerful blender until smooth (they will have a slightly green color because of the onions; don't worry, once you add the turmeric, they'll turn yellow). This mixture should make about 32 fluid ounces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Strain the mixture through cheesecloth or a nut milk bag to get rid of any excess liquid."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix together the cauliflower mixture, eggs, salt, pepper, turmeric, and xanthan gum in a medium bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour 1/2 cup of batter for each tortilla onto a baking sheet lined with parchment paper or a nonstick silicone baking liner."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 25 minutes on 1 side only. Let cool before removing from the baking sheet."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "1g",
+      "carbohydrateContent": "22g",
+      "proteinContent": "3g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Fresh Mint and Pea Spread",
+    "description": "Makes 3 cups (24 servings, 2 tablespoons per serving)[span_26](start_span)[span_26](end_span).",
+    "recipeYield": "24 servings",
+    "recipeIngredient": [
+      "3 cups fresh English peas",
+      "1/2 cup almonds, ground to consistency of flour",
+      "Zest of 1 lemon",
+      "2 cups fresh mint, well packed",
+      "3 tablespoons lemon juice",
+      "1 shishito pepper",
+      "2 ounces goat cheese",
+      "1/2 cup avocado oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place all the ingredients into a powerful blender and blend on medium speed until the spread is the desired consistency."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Store in the refrigerator in a glass container. The spread will last in the fridge for 5 to 7 days."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "0g",
+      "carbohydrateContent": "8g",
+      "proteinContent": "4g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Meyer Lemon-Ginger Salmon",
+    "description": "Makes 12 servings (4 ounces per serving)[span_27](start_span)[span_27](end_span).",
+    "recipeYield": "12 servings",
+    "recipeIngredient": [
+      "1 to 2 tablespoons sesame oil",
+      "1 large wild salmon fillet (2 1/2 to 3 pounds)",
+      "2 tablespoons low-sodium organic miso",
+      "1 tablespoon coconut aminos",
+      "4 tablespoons grated fresh ginger",
+      "1/2 teaspoon grated fresh turmeric",
+      "2 teaspoons minced garlic",
+      "2 teaspoons raw local honey",
+      "Juice from 2 large Meyer lemons",
+      "Zest from 3 large Meyer lemons"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 350°F."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare a large baking dish (15 inches is a perfect size) by adding a little sesame oil to the bottom of the pan before you lay in the salmon, skin-side down. (This will prevent the skin from sticking.)"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the remaining ingredients together in a small bowl, forming a thick sauce. Pack the sauce on top of the salmon. (The thick, zesty part of the sauce will stay on top and create a crust during the baking process, and the juices will slide to the bottom of the pan, giving flavor and moisture to the rest of the fish.)"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for approximately 45 minutes, or until the salmon starts to brown on the top and is cooked through in the thickest part of the fillet."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "42g",
+      "carbohydrateContent": "1g",
+      "proteinContent": "50g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Braised Beef Collagen Boost",
+    "description": "Makes 24 servings (4 ounces per serving)[span_28](start_span)[span_28](end_span).",
+    "recipeYield": "24 servings",
+    "recipeIngredient": [
+      "4 to 4 1/2 cups beef bone broth (see recipe for Basic Beef Bone Broth on page 266)",
+      "8 pounds organic grass-fed beef",
+      "1 tablespoon sea salt for searing",
+      "1 tablespoon ground black pepper for searing",
+      "1 onion, peeled and cut into 8 wedges",
+      "12 ounces tomato paste (buy only brands that come in glass containers)",
+      "2 cups carrots (3 to 4 large carrots, cut into 2-inch chunks)",
+      "4 celery stalks, cut into 2-inch-long chunks",
+      "1 tablespoon ground herbes de Provence",
+      "4 to 5 whole garlic cloves"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "You can braise 4 ways. Here are the fastest to slowest methods: pressure cooker, stovetop, oven, or slow cooker. These directions are for a 6-plus-quart slow cooker."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Start warming up the bone broth in your slow cooker. Sometimes, I boil the bone broth first to help kick-start it."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare to sear your beef by sprinkling salt and pepper on all surfaces. Heat a large frying or sauté pan on medium-high heat and sear each side of the meat until lightly golden brown. This is an important step because you're doing 2 things that are going to make your final dish delicious: sealing in moisture and creating flavor. All the crusty bits are full of flavor that will transfer to your braising liquid."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the meat and all the remaining ingredients in the slow cooker. Braise for 4 to 8 hours. (I go the whole 8 hours so that the meat is as tender as possible and ready to eat when I'm finished with my workday.)"
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "13g",
+      "carbohydrateContent": "0g",
+      "proteinContent": "13g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Salmon in Parchment Paper",
+    "description": "Makes 8 servings (2 ounces per serving)[span_29](start_span)[span_29](end_span).",
+    "recipeYield": "8 servings",
+    "recipeIngredient": [
+      "16 ounces asparagus",
+      "2 yellow bell peppers, thinly sliced",
+      "1 red onion, thinly sliced",
+      "4 large tomatoes, diced",
+      "4 tablespoons capers, drained",
+      "8 salmon fillets",
+      "2 lemons, juiced",
+      "1/4 cup avocado oil",
+      "3 lemons, sliced",
+      "1 teaspoon sea salt",
+      "1 teaspoon ground pepper",
+      "1/2 teaspoon cayenne pepper",
+      "1/2 cup basil, thinly sliced"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 400°F. Cut parchment paper into eight 17-inch squares."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Divide asparagus, bell peppers, onion, tomatoes, and capers evenly among the 8 parchment squares. Place 1 salmon fillet on top of each. Drizzle lemon juice and a little avocado oil over each piece of salmon. Top with 1 to 2 lemon slices, salt, pepper, and a dash of cayenne."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring the parchment paper sides up over the salmon; double-fold the top and sides to seal, making airtight pockets. Place the pockets on a baking sheet."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake the salmon for 15 to 20 minutes; your thermometer should register 140°F to 145°F when inserted through the paper and into the fish. Place each packet on a separate plate and cut open. Sprinkle some basil over the top of the fish and serve immediately."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "8g",
+      "carbohydrateContent": "1g",
+      "proteinContent": "10g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Yellowed Cauliflower (V)",
+    "description": "Makes 8 to 12 servings (1 cup per serving)[span_30](start_span)[span_30](end_span). Recipes with a (V) indicate a vegetarian selection[span_31](start_span)[span_31](end_span).",
+    "recipeYield": "8 to 12 servings",
+    "recipeIngredient": [
+      "2 large heads of cauliflower",
+      "1 1/2 teaspoons ground turmeric",
+      "1 teaspoon sea salt",
+      "1/2 teaspoon pepper",
+      "1/3 cup avocado oil",
+      "1 pair disposable plastic gloves (for prep)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 350°F. Remove the tough core from the cauliflower and break the rest into 3-inch florets."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the turmeric, salt, and pepper in a small bowl and reserve."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the cauliflower in a large rectangular baking dish. Drizzle the avocado oil over the cauliflower and toss to coat evenly. (Use the gloves so your hands don't turn bright yellow!) Sprinkle the spices over the cauliflower and continue tossing to coat evenly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roast the cauliflower in the oven for 45 minutes, mixing and tossing twice during cooking time to ensure even cooking."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "10g",
+      "carbohydrateContent": "3g",
+      "proteinContent": "4g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Green Beans with Caramelized Shallots",
+    "description": "Makes 10 servings (1 cup per serving)[span_32](start_span)[span_32](end_span).",
+    "recipeYield": "10 servings",
+    "recipeIngredient": [
+      "15 shallots",
+      "1 to 2 tablespoons avocado oil",
+      "2 pounds green beans",
+      "1 cup sliced almonds",
+      "2 tablespoons grass-fed butter",
+      "1 teaspoon salt",
+      "1/2 teaspoon pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the shallots by peeling and slicing thinly. Place the shallots and 1 tablespoon of the avocado oil in a medium frying pan and sauté until the shallots are caramelized and golden brown (this may take 30 minutes-add more oil if necessary). Stir occasionally, but not too often; the shallots need time to cook, and if you stir too often, the caramelization doesn't have time to happen. But at the same time, keep a watchful eye on them so they don't burn. Once caramelized, reserve the shallots in a bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare to blanch the beans. Boil enough water to submerge the beans in an 8-quart stockpot. While the water is heating, trim both ends of the beans. Prepare an ice bath to cool the beans after blanching by adding ice and cold water to a large bowl. Boil the beans in the stockpot for about 3 minutes, then quickly transfer them to the ice bath to stop the cooking process. Once the beans are cool, remove them from the ice bath, drain, and reserve."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lightly toast the sliced almonds in a frying pan over medium heat. The goal is to get the nuts just slightly brown to release the oils and produce an extra nutty flavor."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Five minutes before you're ready to serve, heat the butter in a large sauté or frying pan over medium-high heat. Add the green beans, salt, and pepper to the butter in the pan. Once the beans are hot, add in the caramelized shallots and sliced almonds. Mix evenly and serve."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "2g",
+      "carbohydrateContent": "7g",
+      "proteinContent": "2g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Cardamom Carrot Fries (V)",
+    "description": "Makes 8 servings (1 cup per serving)[span_33](start_span)[span_33](end_span). Recipes with a (V) indicate a vegetarian selection[span_34](start_span)[span_34](end_span).",
+    "recipeYield": "8 servings",
+    "recipeIngredient": [
+      "8 cups carrot sticks (start with 6 pounds large organic carrots)",
+      "2 tablespoons avocado oil",
+      "3 teaspoons ground herbes de Provence",
+      "1 1/2 teaspoons chili powder",
+      "2 tablespoons cardamom (adjust to taste)",
+      "1/16 teaspoon cayenne pepper",
+      "1 1/2 teaspoons salt",
+      "1/4 teaspoon pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 375°F. Peel the carrots and start to prepare 'fries' by cutting the carrots into even lengths. Then 'square off' the carrots, eliminating the round edges. Once you have square columns of carrots, slice them into the thickness of your desired fries. Cut these slices into fries."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the carrot fries and the avocado oil in a large bowl and toss to coat evenly. Add the remaining ingredients and toss to incorporate evenly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Line 2 large baking sheets with parchment paper or nonstick baking liners. Arrange the fries so they're not touching each other. You'll get the best results if each fry has space around it so that all can brown evenly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 30 to 45 minutes, checking every 10 minutes or so to make sure they are cooking evenly."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "14g",
+      "carbohydrateContent": "20g",
+      "proteinContent": "3g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Spicy Zucchini Apple Muffins",
+    "description": "Makes 24 muffins (1 muffin per serving)[span_35](start_span)[span_35](end_span).",
+    "recipeYield": "24 muffins",
+    "recipeIngredient": [
+      "2 cups grated zucchini",
+      "2 cups grated green apple",
+      "6 Medjool dates",
+      "1 cup nut butter",
+      "4 eggs",
+      "1/4 cup coconut oil, melted",
+      "3 teaspoons vanilla extract",
+      "1 cup almond flour",
+      "1 teaspoon baking powder",
+      "1/2 teaspoon baking soda",
+      "4 teaspoons ground cinnamon",
+      "1 teaspoon ground ginger",
+      "1 teaspoon freshly ground nutmeg",
+      "3/4 teaspoon allspice",
+      "3/4 teaspoon ground cloves",
+      "1/2 teaspoon salt"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 350°F. Grate the zucchini and apple with the peel on. Squeeze out the excess liquid from the zucchini."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Smash the dates, removing the pits, using a mortar and pestle or mince them in a food processor until they resemble a paste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend the nut butter, eggs, and smashed dates in a large bowl. Mix in the zucchini, apple, coconut oil, and vanilla and blend thoroughly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the remaining ingredients in a separate bowl and mix together. Incorporate the dry mixture into the wet mixture and blend evenly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lightly oil a silicone muffin pan or silicone muffin cups. If you don't have silicone, simply put paper liners in the muffin pan. Add about 1/4 cup of batter to each cup."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake the muffins for 15 to 20 minutes, or until a toothpick comes out clean from the center."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "2g",
+      "carbohydrateContent": "20g",
+      "proteinContent": "3g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Almond Coconut Bread",
+    "description": "Makes 2 loaves (15 slices per loaf, 2 slices per serving)[span_36](start_span)[span_36](end_span).",
+    "recipeYield": "15 servings",
+    "recipeIngredient": [
+      "2 cups almond flour",
+      "1 1/2 cups coconut flour",
+      "2/3 cup hemp seeds",
+      "1/2 cup ground flaxseed",
+      "1/2 cup whole psyllium husks",
+      "2 tablespoons baking powder",
+      "2 teaspoons ground anise seed (optional, or spice of choice)",
+      "2 teaspoons salt",
+      "12 eggs, room temperature",
+      "1 cup raw cheddar cheese, grated",
+      "2/3 cup coconut oil, melted",
+      "1 1/2 cups raw-milk kefir"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 350°F. Combine all the dry ingredients in a large bowl. Stir well to incorporate the seeds evenly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Beat the eggs in a separate large bowl, then incorporate the other wet ingredients until a smooth batter is formed."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slowly incorporate the dry ingredients into the wet ingredients. (The coconut oil might clump a bit, but this will work itself out during baking.) Mix thoroughly. Pour the batter into two greased loaf pans lined with parchment paper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 45 to 50 minutes, or until a toothpick inserted into the center comes out clean."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the oven, then remove the loaves from the pans and cool directly on a cooling rack so the crust dries; the bread will get soggy if it cools in the pan. Let the loaves cool completely before slicing. Slice and toast right away, or slice and store in the freezer."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "10g",
+      "carbohydrateContent": "31g",
+      "proteinContent": "3g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Mindy's Magic Salad Dressing (V)",
+    "description": "Makes 7 servings (2 ounces per serving)[span_37](start_span)[span_37](end_span). Recipes with a (V) indicate a vegetarian selection[span_38](start_span)[span_38](end_span).",
+    "recipeYield": "7 servings",
+    "recipeIngredient": [
+      "1/4 cup red wine vinegar",
+      "2/3 cup Meyer lemon juice",
+      "Zest of Meyer lemons",
+      "1 tablespoon raw honey",
+      "3/4 cup olive oil",
+      "1 1/2 teaspoons sea salt",
+      "1 1/2 teaspoons ground pepper",
+      "1/4 teaspoon cayenne pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Blend all ingredients together. Store in the refrigerator. Shake before serving."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "4g",
+      "carbohydrateContent": "1g",
+      "proteinContent": "0g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Kale Chips (V)",
+    "description": "Makes 6 servings (10 chips per serving)[span_39](start_span)[span_39](end_span). Recipes with a (V) indicate a vegetarian selection[span_40](start_span)[span_40](end_span).",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+      "1/2 pound curly kale leaves",
+      "2 tablespoons avocado oil",
+      "Sea salt, to taste"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 425°F. Remove the tough stems from the kale. Wash and dry the leaves, then tear into bite-size pieces into a large bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle the avocado oil over the kale and massage it into the leaves. Spread the kale leaves evenly on a lined baking sheet and put in the oven. At the 5-minute mark, use a spatula to separate any kale leaves that are sticking together."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue baking the kale for about 12 minutes, until the leaves are crisp. Remove from the oven and sprinkle with salt."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "12g",
+      "carbohydrateContent": "2g",
+      "proteinContent": "1g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Flaxseed-Crusted Salmon with a Roasted Squash and Broccoli Salad",
+    "description": "Makes 4 servings (2 ounces salmon with 1/2 cup salad per serving)[span_41](start_span)[span_41](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "1 small butternut squash, seeds removed, peeled and cubed",
+      "4 cups broccoli florets",
+      "1/3 cup olive oil, divided",
+      "Sea salt",
+      "Freshly ground pepper",
+      "2 large lemons, juiced and zested",
+      "2 tablespoons champagne or white wine vinegar",
+      "2 teaspoons Dijon mustard",
+      "1 bunch Tuscan kale, washed, stems removed, and chopped",
+      "One 14.5-ounce can cannellini or navy beans, drained and rinsed",
+      "2 medium Gala apples, cored and sliced thin",
+      "1 small shallot, halved and sliced thin",
+      "1/4 cup roasted pumpkin seeds",
+      "8-ounce skin-on wild-caught salmon fillet, patted dry",
+      "1 teaspoon olive oil",
+      "1 teaspoon Dijon mustard",
+      "1 garlic clove, grated",
+      "2 teaspoons ground flaxseed",
+      "2 thyme sprigs, leaves removed and minced",
+      "1/2 teaspoon sea salt",
+      "1/4 teaspoon freshly ground black pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 400°F. Line a large rimmed baking sheet with parchment paper, then spread out the squash and broccoli on top. Drizzle 2 to 3 tablespoons of olive oil over the vegetables. Season with salt and pepper and place in the oven."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roast for 20 to 25 minutes, or until the vegetables are fork tender. Remove from the oven and set aside to cool."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Line a small rimmed baking sheet with parchment paper and place the salmon on top, skin-side down."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the teaspoon of olive oil, mustard, and garlic in a small bowl. Whisk together, then brush evenly over the top and sides of the salmon fillet."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the flaxseed, thyme, salt, and pepper in a separate small bowl. Gently press the mixture into the mustard-glazed flesh of the fish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the fish to the oven and bake for about 10 minutes, or until the fish is cooked through and flakes easily with a fork."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the salmon cooks, finish assembling the salad. Combine the lemon juice and zest, vinegar, mustard, and remaining olive oil in a small bowl. Whisk together and add salt and pepper to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the kale, beans, apple, shallot, and pumpkin seeds in a large bowl. Add the slightly cooled roasted vegetables. Drizzle the lemony vinaigrette over the top and toss to combine. Serve the salmon with a large helping of salad."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "27g",
+      "carbohydrateContent": "34g",
+      "proteinContent": "54g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Pumpkin Chickpea Curry Stew (V)",
+    "description": "Makes 4 servings (1 cup per serving)[span_42](start_span)[span_42](end_span). Recipes with a (V) indicate a vegetarian selection[span_43](start_span)[span_43](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "2 tablespoons olive oil",
+      "1 large onion, diced",
+      "8 garlic cloves, minced",
+      "1 medium Fresno or jalapeño pepper, seeded and finely chopped",
+      "2 tablespoons freshly grated ginger",
+      "One 14.5-ounce can pumpkin puree",
+      "2 teaspoons ground turmeric",
+      "1 1/2 teaspoons sea salt",
+      "1 teaspoon cumin",
+      "1 teaspoon coriander",
+      "1 teaspoon freshly ground black pepper",
+      "One 28-ounce can crushed tomatoes",
+      "2 to 3 cups vegetable broth",
+      "10 ounces fingerling potatoes, quartered",
+      "One 14.5-ounce can chickpeas, drained and rinsed",
+      "2 cups frozen peas",
+      "One 14.5-ounce can full-fat coconut milk",
+      "4 cups spinach",
+      "1 1/2 cups quinoa, prepared according to the package directions",
+      "1/4 cup plain coconut milk yogurt",
+      "1 lime, cut into wedges"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat the olive oil in a large pot over medium heat. Add the onion and cook for 2 to 3 minutes, or until the onion begins to become translucent. Add in the garlic, pepper, and ginger and stir to combine. Cook for another 2 minutes, stirring gently."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Then stir in the pumpkin puree, turmeric, salt, cumin, coriander, and pepper. Cook for 3 to 5 minutes, or until the mixture becomes fragrant. Add in the tomatoes and 2 cups of broth. Stir everything together, getting all the bits off the bottom of the pot, then add in the potatoes and chickpeas. Stir again, and if the potatoes and beans aren't fully submerged in liquid, slowly add more broth until they're covered."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring to a gentle boil, then reduce the heat to low. Cover the pot and simmer for 25 to 30 minutes, or until the potatoes are fork tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the potatoes are tender, remove the lid and stir in the peas, coconut milk, and spinach. Stir gently over the heat until the spinach wilts. Taste the stew, and add more salt and pepper as needed."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the stew over a scoop of cooked quinoa. Garnish with a dollop of yogurt and a wedge of lime for squeezing on the side."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "16g",
+      "carbohydrateContent": "44g",
+      "proteinContent": "23g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Sesame Ginger-Roasted Chicken and Sweet Potato with a Fennel and Pickled Beet Salad",
+    "description": "Makes 4 servings (1/2 cup chicken on 1 1/2 cups salad per serving)[span_44](start_span)[span_44](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "1 tablespoon toasted sesame oil",
+      "2 tablespoons avocado oil",
+      "1/4 cup coconut aminos",
+      "2 tablespoons freshly grated ginger",
+      "1 teaspoon fish sauce (optional)",
+      "4 garlic cloves, minced",
+      "1 1/2 teaspoons sea salt",
+      "1 teaspoon freshly ground black pepper",
+      "One 8-ounce chicken breast, cubed",
+      "1 large sweet potato (or 2 medium), peeled and cubed",
+      "1 large onion, cut into 1 1/2-inch-thick wedges",
+      "1 tablespoon sesame seeds",
+      "1/4 cup olive oil",
+      "3 tablespoons apple cider vinegar",
+      "1 small shallot, minced",
+      "Sea salt",
+      "Freshly ground black pepper",
+      "3 cups arugula",
+      "2 cups baby kale",
+      "3 small fennel bulbs, trimmed and sliced thin",
+      "2 cups pickled beet slices, cut into bite-size pieces",
+      "2 cups broccoli slaw mix",
+      "2 small Granny Smith apples, cored and sliced thin",
+      "2 tablespoons slivered almonds"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 400°F. Line a rimmed baking sheet with parchment paper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the first 8 ingredients for the chicken and whisk together well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cubed chicken, sweet potato, and onion to the bowl with the sesame-ginger mixture and toss to coat evenly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Scatter the chicken and vegetables evenly on the sheet pan. Reserve any leftover marinade in the bowl. Place the pan in the oven and roast for 15 minutes. Remove the pan from the oven briefly, brushing the chicken and vegetables with the leftover marinade and sprinkling evenly with sesame seeds. Return the pan to the oven and cook for another 20 to 25 minutes, or until the potatoes are fork tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While you wait for the chicken and vegetables to finish cooking, prepare the salad. Whisk together the olive oil, vinegar, and shallot in a small bowl. Season with salt and pepper to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the remaining ingredients in a large serving bowl. When you're ready to serve, toss the salad with the vinaigrette. Serve the salad alongside the roasted chicken and sweet potatoes."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "22g",
+      "carbohydrateContent": "56g",
+      "proteinContent": "20g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Chipotle Black Bean-Stuffed Sweet Potatoes with Cilantro-Lime Cabbage Slaw (V)",
+    "description": "Makes 4 servings (1 sweet potato over 3/4 cup slaw per serving)[span_45](start_span)[span_45](end_span). Recipes with a (V) indicate a vegetarian selection[span_46](start_span)[span_46](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "4 large sweet potatoes, washed and holes poked with fork or knife",
+      "2 tablespoons olive oil",
+      "1 red onion, diced",
+      "4 ounces tempeh, crumbled",
+      "6 garlic cloves, minced",
+      "1 chipotle pepper in adobo sauce, finely chopped",
+      "One 14.5-ounce can diced tomatoes",
+      "One 14.5-ounce can black beans, drained and rinsed",
+      "1 cup quinoa, rinsed",
+      "2 teaspoons sea salt",
+      "1 teaspoon freshly ground black pepper",
+      "1 teaspoon cumin",
+      "1 teaspoon chili powder",
+      "1/2 teaspoon paprika",
+      "1/4 teaspoon cayenne pepper",
+      "2 large limes, juiced",
+      "4 tablespoons plain coconut milk yogurt",
+      "1 tablespoon avocado oil",
+      "2 cups shredded cabbage (green or red)",
+      "1/2 white onion, sliced thin",
+      "1 small bunch cilantro, trimmed and chopped",
+      "1 avocado, pitted and cubed",
+      "Sea salt",
+      "Freshly ground black pepper",
+      "2 tablespoons ground flaxseeds",
+      "2 tablespoons roasted pumpkin seeds"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 425°F. Line a baking sheet with parchment paper or foil and place the prepared sweet potatoes on top. Bake for about 50 minutes, or until the potatoes are fork tender at the thickest part."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "After the sweet potatoes go in the oven, prepare the slaw. Combine the lime juice, yogurt, and oil in a small bowl. Whisk until combined and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the cabbage, onion, cilantro, and avocado in a medium or large bowl. Drizzle the lime-coconut mixture over the top and toss to combine. Add salt and pepper to taste, and toss again. Cover the bowl with plastic wrap and place in the refrigerator so the flavors can meld while you finish cooking."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat 2 tablespoons of olive oil in a large skillet over medium-high heat. Add in the onion and cook until it starts to become translucent, about 2 to 3 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the crumbled tempeh and cook until it begins to turn golden. Once the tempeh starts to brown, stir in the minced garlic and cook for another minute, then add in the remaining ingredients (chipotle pepper through cayenne pepper)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in 1 1/2 cups of water to give the quinoa enough liquid to cook. Once the mixture begins to boil gently, turn the heat down to medium-low, stirring every so often. Cover and cook for 15 to 20 minutes, or until the sweet potatoes are ready to come out of the oven and the quinoa is beginning to open and curl. If the quinoa-bean mixture begins to boil before the potatoes are done, reduce the heat to its lowest setting to keep the simmer gentle. Taste and adjust the salt and pepper as needed."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the sweet potatoes are ready, cut them through the center to release steam, being careful not to cut through the skin on the bottom. Gently pinch the sides to fluff the centers."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Retrieve the slaw from the refrigerator and toss in the flaxseeds and pumpkin seeds. Serve the potatoes with a generous scoop of both the quinoa-bean mixture and the cilantro cabbage slaw on top."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "18g",
+      "carbohydrateContent": "43g",
+      "proteinContent": "24g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Shrimp Scampi and a Warm Bacon Balsamic Squash and Dandelion Salad",
+    "description": "Makes 4 servings (1/2 cup scampi with 1/2 cup each of spaghetti and acorn squash per serving)[span_47](start_span)[span_47](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "1 large spaghetti squash, halved lengthwise and seeds removed",
+      "Olive or avocado oil",
+      "1 large acorn squash, halved lengthwise and seeds removed",
+      "Sea salt",
+      "Freshly ground black pepper",
+      "2 tablespoons ghee",
+      "8 ounces wild-caught peeled and deveined shrimp",
+      "6 minced garlic cloves",
+      "1 teaspoon sea salt",
+      "1 teaspoon freshly ground black pepper",
+      "1/2 teaspoon red pepper flakes",
+      "2 lemons, juiced and zested",
+      "1 cup chicken broth",
+      "6 cups spinach",
+      "1 small bunch parsley, trimmed and chopped",
+      "1/4 cup extra-virgin olive oil",
+      "3 tablespoons balsamic vinegar",
+      "1 tablespoon pure maple syrup",
+      "Sea salt",
+      "Freshly ground black pepper",
+      "2 thick-cut bacon slices, chopped",
+      "1 medium shallot, finely diced",
+      "4 cups dandelion greens or other bitter green (arugula, kale, radicchio)",
+      "1 cup bulgur or quinoa, cooked according to the package directions",
+      "1/4 cup pomegranate seeds",
+      "2 tablespoons roasted sunflower or pumpkin seeds"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 400°F. Line a large baking sheet with parchment paper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lightly grease the flesh of the spaghetti squash with oil, season lightly with salt and pepper, then place on the baking sheet, flesh-side down. Use a fork or a knife to poke a few holes in the top of each half. Place in the oven for 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the spaghetti squash starts to cook, finish prepping the acorn squash. If you don't like the texture of the skin, peel it now; otherwise just leave it be. Cut each half into 1/2-inch slices and, as you did with the spaghetti squash, lightly grease all sides of each slice with oil and season lightly with salt and pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "After the spaghetti squash gets its 10-minute head start, pull it out of the oven and add the acorn squash to the baking sheet. Return the sheet with both squashes to the oven."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "After another 10 to 15 minutes, flip the slices of acorn squash with a spatula, then continue cooking for another 10 to 15 minutes, until both squashes are tender. Once done, remove from the oven, flip the spaghetti squash right side-up so it can release more steam, and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Begin cooking the shrimp (either while you wait for squash to finish or after it's resting; either works). Heat the ghee in a large skillet over medium-high heat. Once the ghee is melted, add the shrimp and garlic and season with the salt, pepper, and red pepper flakes. Cook, stirring occasionally, until the shrimp becomes pink and opaque."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the lemon juice and zest along with the broth. As soon as the liquids begin to boil, reduce the heat to low. Simmer until the liquids have reduced by half, then stir in the spinach."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "After the spinach shrinks and wilts, turn off the heat and gently scoop the cooked flesh from the spaghetti squash into the mixture. The squash's flesh should come apart like pseudo-noodles. Toss the mixture together. Taste and adjust the salt as needed."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Now finish the salad. Whisk together the oil, vinegar, and maple syrup in a small bowl. Season with salt and pepper to taste and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a large skillet over medium-high heat. Add the chopped bacon to the pan, stirring occasionally to help each piece cook equally. Once most of the fat is rendered and the bacon is beginning to crisp at the edges, add in the shallot. Cook for another 1 to 2 minutes, or until the shallot becomes translucent."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn off the heat and toss in the dandelion greens. Once the greens are just barely wilted, transfer the contents of the skillet to a large bowl. Add in the prepared bulgur, roasted acorn squash, pomegranate seeds, and sunflower seeds. Toss together and then dress with the balsamic vinaigrette."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the scampi with chopped parsley on top and a generous serving of the salad on the side."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "25g",
+      "carbohydrateContent": "33g",
+      "proteinContent": "47g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Ghee-Basted Pork Chops, Sautéed Fennel, and Leeks with Kale and Roasted Potatoes",
+    "description": "Makes 4 servings (1 pork chop and 1/2 cup vegetables per serving)[span_48](start_span)[span_48](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "1 pound fingerling (or baby) potatoes, washed and halved",
+      "2 medium turnips, washed and cubed (about the same size as the halved potatoes)",
+      "3 tablespoons ghee, melted",
+      "2 garlic cloves, grated",
+      "2 rosemary sprigs, leaves removed and minced",
+      "1 1/2 teaspoons sea salt",
+      "1 teaspoon freshly ground black pepper",
+      "3 tablespoons avocado oil",
+      "2 leeks, washed, roots and dark green tops trimmed, white and pale green parts sliced",
+      "1 lemon, sliced thin with seeds removed",
+      "3 large fennel bulbs, trimmed and sliced thin",
+      "1 teaspoon sea salt",
+      "1 teaspoon freshly ground black pepper",
+      "1/2 to 1 teaspoon red pepper flakes (1/2 teaspoon for milder spice, 1 teaspoon if you like more heat)",
+      "4 cups kale",
+      "1 14.5-ounce can cannellini or navy beans, drained and rinsed",
+      "4 thick-cut bone-in pork chops (8 to 10 ounces), patted dry",
+      "Sea salt",
+      "Freshly ground black pepper",
+      "2 fresh thyme sprigs, leaves removed and minced",
+      "1 tablespoon ghee, divided",
+      "3/4 cup chicken broth"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 400°F. Line a rimmed baking sheet with parchment paper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss together the potatoes and turnips in a large bowl with the ghee, garlic, rosemary, salt, and pepper. Once everything is evenly saturated and seasoned, scatter the potato and turnip mixture evenly onto the prepared baking sheet. Place in the oven and cook for 25 to 30 minutes, or until the vegetables are fork tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the potatoes are roasting, prepare the remaining veggies. Heat the avocado oil in a large skillet over medium-high heat. Add the leeks and cook for 3 to 4 minutes, or until they start to become tender. Add in the lemon slices and continue cooking for another couple of minutes. Once the leeks are translucent and the lemons are starting to brown at the edges, add in the fennel and season with salt, pepper, and red pepper flakes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook until the fennel starts to shrink and become tender, then add in the kale and beans. Continue cooking for another 3 to 4 minutes, or until the kale wilts and the beans are heated through. Taste, add more salt, if needed, and remove from the heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a second skillet over medium-high heat. While the skillet warms, season the pork chops with salt, pepper, and the minced thyme. Once the skillet is hot, add half of the ghee. After it melts, add in the pork chops. Sear for 5 minutes without touching the pork, then flip them over and sear for another 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "After the second side of the pork is done searing, add the remaining ghee to the skillet. Using tongs and a spoon or heat-resistant basting brush, flip the pork chops and glaze with the ghee and cooking juices in the pan. Continue to flip and baste the pork for about 5 minutes, then remove from the skillet and set aside to rest for at least 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the chicken broth into the hot skillet to deglaze it while using a whisk to pull up all the fond (tidbits left from the pork) on the bottom. Once the broth begins to boil, reduce the heat to medium-low and gently boil until the liquid reduces by more than half. Taste the reduction and add more salt if needed."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the pork chops and serve with a big scoop of potatoes, sautéed veggies, and a spoonful of reduction sauce over the top."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "17g",
+      "carbohydrateContent": "55g",
+      "proteinContent": "26g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Chickpea Pancakes with Sautéed Beans and Greens with a Lemon Tahini Dressing (V)",
+    "description": "Makes 4 servings (2 pancakes per serving)[span_49](start_span)[span_49](end_span). Recipes with a (V) indicate a vegetarian selection[span_50](start_span)[span_50](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "4 cups chickpea flour (besan)",
+      "1/3 cup nutritional yeast",
+      "2 teaspoons sea salt",
+      "1 teaspoon freshly ground black pepper",
+      "1 teaspoon ground turmeric",
+      "1 teaspoon cumin",
+      "1/2 teaspoon coriander",
+      "1/2 teaspoon cayenne pepper",
+      "2 1/2 cups water",
+      "Avocado oil",
+      "1/2 cup tahini",
+      "1 large lemon, juiced and zested",
+      "1 garlic clove, grated",
+      "Sea salt",
+      "Freshly ground black pepper",
+      "3 tablespoons avocado oil, divided",
+      "One 14.5-ounce can chickpeas, drained and rinsed",
+      "1/2 teaspoon sea salt",
+      "1/2 teaspoon freshly ground black pepper",
+      "1/2 teaspoon paprika",
+      "1/2 teaspoon cumin",
+      "1/4 teaspoon crushed red pepper flakes",
+      "3 garlic cloves, grated",
+      "6 cups chopped kale",
+      "1 cup pickled red onion",
+      "2 tablespoons toasted sesame seeds",
+      "2 tablespoons roasted pumpkin seeds",
+      "2 tablespoons whole flaxseeds"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine all the ingredients for the pancakes, except for the oil, in a large bowl. Whisk together until the batter is smooth and no lumps remain, then set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine all the ingredients for the tahini dressing in a small bowl. Once combined, slowly drizzle in some water while whisking until the dressing reaches your preferred consistency (you can make it as thick or as thin as you like). Season with salt and pepper to taste and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat 1 1/2 tablespoons of the avocado oil in a large skillet over medium-high heat. Add in the chickpeas, salt, black pepper, paprika, cumin, and red pepper. Cook, stirring occasionally, until the beans begin to turn golden and crispy, then transfer them from the pan and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the remaining 1 1/2 tablespoons of avocado oil in the skillet you used for the beans and return to medium-high heat. Add the garlic and kale and season lightly with salt and pepper. Cook until the kale is wilted, then remove from the heat and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a small or medium nonstick skillet over medium heat. Add just enough oil to grease the bottom of the pan (less than 1 tablespoon). Give the resting batter a quick whisk and then scoop out enough batter to nearly coat the bottom of the pan (about 1/2 cup). Cook the pancake until bubbles begin to appear, 1 to 2 minutes, then gently flip with a spatula and cook for another 2 minutes, or until cooked through and slightly golden. Remove the pancake from the skillet and set aside. Repeat this process until all the batter is used."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the pancakes with the kale and crispy chickpeas on top, drizzle with the tahini dressing, and garnish with pickled onion, sesame seeds, pumpkin seeds, and flaxseeds."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "24.5g",
+      "carbohydrateContent": "69g",
+      "proteinContent": "33g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "White Bean and Kale Soup (V)",
+    "description": "Makes 4 servings (1 1/2 cups per serving)[span_51](start_span)[span_51](end_span). Recipes with a (V) indicate a vegetarian selection[span_52](start_span)[span_52](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "2 tablespoons avocado oil",
+      "1 large onion, diced",
+      "4 garlic cloves, minced",
+      "2 celery stalks, chopped",
+      "2 medium carrots, peeled and chopped",
+      "2 fresh thyme sprigs, leaves removed and minced",
+      "3 fresh oregano sprigs, leaves removed and minced",
+      "1 1/2 teaspoons sea salt",
+      "1 teaspoon freshly ground black pepper",
+      "1 teaspoon crushed red pepper flakes",
+      "5 cups vegetable broth",
+      "Two 14.5-ounce cans cannellini or navy beans, drained and rinsed",
+      "6 cups chopped kale",
+      "1 large lemon, cut into wedges"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat the oil in a large pot over medium-high heat. Add the onion and cook for about 2 minutes, or until it starts to become translucent."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the next 8 ingredients (garlic through red pepper flakes). Cook, stirring occasionally, for another 3 minutes, then pour in the broth and beans. Stir together and cook over medium-high heat until the mixture begins to boil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Reduce the heat to low, taste and add more salt as needed, then cover and simmer for 20 to 25 minutes to allow the flavors to penetrate the beans."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the kale to the soup during the last 5 minutes of cooking, stirring well to combine. Serve the soup with a wedge of lemon to squeeze over the top."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "10g",
+      "carbohydrateContent": "48g",
+      "proteinContent": "25g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Herby Steaks with Mashed Potatoes and Roasted Veggie Medley",
+    "description": "Makes 4 servings (2 ounces of steak and 1/2 cup vegetables per serving)[span_53](start_span)[span_53](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "10-ounce bone-in ribeye steak",
+      "Sea salt",
+      "2 teaspoons avocado oil",
+      "Freshly ground black pepper",
+      "1 tablespoon ghee",
+      "1 garlic clove, smashed",
+      "1 fresh thyme sprig",
+      "1 fresh oregano sprig",
+      "1/4 cup avocado oil",
+      "4 cups broccoli florets",
+      "4 cups cauliflower florets",
+      "4 cups brussels sprouts, trimmed and halved",
+      "1 1/2 teaspoons sea salt",
+      "1 teaspoon garlic powder",
+      "1 teaspoon freshly ground black pepper",
+      "1 pound Yukon Gold potatoes, peeled and cubed",
+      "Sea salt",
+      "3 tablespoons ghee",
+      "1/2 teaspoon ground white pepper (optional)",
+      "Freshly ground black pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 400°F. Line a large baking sheet with parchment paper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the steak from the refrigerator and season all sides with some salt. Set it aside to rest and come to room temperature."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine all the ingredients for the roasted vegetables in a large bowl. Toss together until evenly seasoned and saturated with oil. Transfer to the prepared baking sheet and bake in the oven for 25 to 30 minutes, or until the vegetables are fork tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the potatoes in a large pot and cover with water. Season the water with salt until it tastes like the sea. Bring to a boil over high heat and cook until the potatoes are fork tender, then remove from stovetop and drain."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Return the strained potatoes to the warm pot they cooked in. Add the ghee, the white pepper, if using, and the black pepper to taste. Mash to desired consistency. The potatoes should be thoroughly seasoned from cooking in the seasoned water, but taste them to be sure and add more salt if needed."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the potatoes are done and the roasted vegetables are nearly finished, it's time to cook the steak. Heat the oil in a medium cast-iron skillet over high heat and finish seasoning the resting steak with some pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the skillet is hot and the oil is shimmering, add the steak. Sear the meat without moving it until a nice crust begins to form on the bottom, about 4 to 5 minutes. Turn the steak over and add the ghee, garlic, and herbs."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a spoon or heat-resistant basting brush, continuously baste the steak with the garlic-herb ghee while it finishes cooking, another 4 to 5 minutes for medium-rare, or until it reaches your preferred doneness."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the steak is done, remove from over the heat and allow it to rest for 10 minutes, then slice and serve with any juices left on the cutting board, along with a generous helping of potatoes and roasted vegetables."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "29g",
+      "carbohydrateContent": "27g",
+      "proteinContent": "48g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Seed-Crusted Cauliflower Steaks with Arugula Chimichurri-Dressed Beans and Sweet Potato Fries (V)",
+    "description": "Makes 4 servings (1 slice cauliflower and 1/2 cup beans and 1/2 cup fries per serving)[span_54](start_span)[span_54](end_span). Recipes with a (V) indicate a vegetarian selection[span_55](start_span)[span_55](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "2 garlic cloves, smashed",
+      "1 small shallot, peeled and roughly chopped",
+      "1/2 teaspoon crushed red pepper flakes",
+      "3 cups arugula",
+      "1 cup parsley",
+      "1/2 cup olive oil",
+      "1/3 cup red wine vinegar",
+      "Sea salt",
+      "Freshly ground black pepper",
+      "One 14.5-ounce can chickpeas, drained (*reserve bean liquid in cans) and rinsed",
+      "1 pound sweet potatoes, peeled and cut into relatively uniform 1/4-inch-thick matchsticks",
+      "2 tablespoons avocado oil",
+      "2 teaspoons pure maple syrup",
+      "1 teaspoon cornstarch",
+      "1 teaspoon sea salt",
+      "1 teaspoon paprika",
+      "1/4 teaspoon cayenne pepper",
+      "Freshly ground black pepper",
+      "1/3 cup nutritional yeast",
+      "1/4 cup hemp seeds",
+      "1/4 cup pumpkin seeds",
+      "1/4 cup ground flaxseed",
+      "1 tablespoon chia seeds",
+      "2 teaspoons sea salt (use only 1 teaspoon if any of the seeds are pre-salted)",
+      "1 teaspoon freshly ground black pepper",
+      "1 teaspoon garlic powder",
+      "1 teaspoon onion powder",
+      "*reserved canned chickpea liquid (aquafaba)",
+      "1 large head of cauliflower (or 2 medium), leaves removed, stem trimmed, and cut into 4 'steaks' about 1 1/2 inches thick",
+      "2 tablespoons avocado oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 425°F. Line 2 rimmed baking sheets with parchment paper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "First, prepare the chimichurri beans. Combine the first 5 ingredients in a food processor and pulse until the garlic and shallots are minced and the greens are finely chopped. Add in the olive oil and vinegar, pulsing a few more times until the sauce comes together. Season with salt and pepper to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the chickpeas and chimichurri sauce in a large bowl and toss until the beans are fully saturated, then set aside so the flavors can meld while you finish the rest of the meal. The beans can stay at room temperature or go in the refrigerator if you'd prefer them chilled."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Now prepare the fries. Combine the sweet potatoes with the oil and syrup in a large bowl and toss together until all the potatoes are fully saturated. Combine the cornstarch, salt, paprika, cayenne, and black pepper in a small bowl. Sprinkle the cornstarch mixture on top of the potatoes. Toss again to distribute evenly; rub the cornstarch into the fries if you see any noticeable streaks of white."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the fries in an even layer on 1 of the prepared baking sheets and place in the oven. Bake for 10 to 15 minutes, then use a spatula to flip the fries over and bake for another 10 to 15 minutes, or until the fries begin to get crispy and golden along the edges."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the fries bake, prepare the cauliflower. Combine the first 9 ingredients in a clean food processor and pulse until the seeds form a thick, sandy texture. Transfer the mixture to a small baking sheet (or pie plate) and spread out in an even layer."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the reserved aquafaba (chickpea liquids) in a large shallow bowl (or pie plate) and create a small assembly line on your counter. First the bowl with aquafaba, then the seed mixture, and then the second parchment-lined baking sheet."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Now to dredge the cauliflower. Gently take a cauliflower steak and lay it in the aquafaba. Turn it over in the liquid, making sure all the sides are evenly saturated. Transfer the steak to the seed mixture, turning and lightly pressing with your hands to get all the sides covered, then place it on the baking sheet. Repeat this process until all steaks are done."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently brush oil over the steaks and place them in the oven. Cook for 15 minutes, then use a spatula to flip them over and cook for another 10 to 15 minutes, or until the cauliflower is tender and the crust is becoming golden brown. If the fries have lost most of their heat, feel free to pop them in the oven to warm up during the last couple of minutes of the cauliflower cooking time."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the cauliflower steaks with a scoop of the chimichurri chickpeas on top and a helping of sweet potato fries."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "40g",
+      "carbohydrateContent": "64g",
+      "proteinContent": "24g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Quinoa Tabouli",
+    "description": "Makes 6 cups (12 servings, 1/2 cup per serving)[span_56](start_span)[span_56](end_span).",
+    "recipeYield": "12 servings",
+    "recipeIngredient": [
+      "1/2 cup quinoa",
+      "3 tablespoons lemon juice",
+      "2 tablespoons apple cider vinegar",
+      "1 tablespoon olive oil",
+      "1/2 teaspoon sea salt",
+      "1/2 teaspoon ground pepper",
+      "1 teaspoon ground herbes de Provence",
+      "1 cup spinach, chopped",
+      "1 cup cherry tomatoes, quartered",
+      "1 cup crumbled feta cheese",
+      "1 cup red bell pepper, diced"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cook the quinoa per the instructions on the package. Fluff and set aside to cool in a large bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the quinoa is cooking is a perfect time to make the salad dressing with the lemon juice, apple cider vinegar, olive oil, sea salt, pepper, and herbs. Blend evenly and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the other ingredients for the salad: Chop the spinach, cut the tomatoes, crumble the feta, and dice the bell peppers."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the quinoa has cooled, fluff it again with a fork. Add all the other ingredients, mix to incorporate, and then gently mix in the salad dressing."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve at room temperature or refrigerate for a few hours or overnight."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "8g",
+      "carbohydrateContent": "5g",
+      "proteinContent": "2g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Black and Orange Rice",
+    "description": "Makes 7 cups (14 servings, 1/2 cup per serving)[span_57](start_span)[span_57](end_span).",
+    "recipeYield": "14 servings",
+    "recipeIngredient": [
+      "2 cups black rice or wild rice blend",
+      "1 3/4 cups bone broth",
+      "4 tablespoons butter",
+      "1 cup scallions, thinly sliced (white and light green sections only)",
+      "1 cup sliced raw almonds",
+      "Zest from 2 medium oranges",
+      "6 tablespoons freshly squeezed orange juice",
+      "1 teaspoon finely ground pepper",
+      "Sea salt to taste"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cook the wild rice according to instructions on the package. (This is typically with 2 cups of liquid for every 1 cup of rice, along with the butter, for approximately 45 minutes on simmer after you bring the mixture to a fast boil.) Check on the rice occasionally to make sure the broth is being absorbed evenly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the rice is cooking, prepare and measure the other ingredients (zest, juice, sliced scallions, and almonds) and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When the rice is ready, mix in all the other ingredients and serve."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "4g",
+      "carbohydrateContent": "30g",
+      "proteinContent": "8g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Sweet Potato Hash Browns",
+    "description": "Makes 3 cups (12 servings, 1/4 cup per serving)[span_58](start_span)[span_58](end_span).",
+    "recipeYield": "12 servings",
+    "recipeIngredient": [
+      "3 cups shredded sweet potato",
+      "1 tablespoon salt (adjust to taste)",
+      "1 tablespoon pepper (adjust to taste)",
+      "1 teaspoon nutmeg",
+      "1 teaspoon allspice",
+      "Grass-fed butter"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Shred the sweet potato with a grater or food processor. (To save time, you can shred the sweet potato in advance; it saves nicely for a few days in the fridge.)"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the salt, pepper, nutmeg, and allspice in a medium bowl until evenly combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt the butter in a frying pan over medium heat. Place several 1/4-cup circular mounds of shredded sweet potato in the pan. Cook 4 to 5 minutes on each side, until done. The goal is tender on the inside, slightly crispy on the outside."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "7g",
+      "carbohydrateContent": "26g",
+      "proteinContent": "3g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Roasted Butternut Squash Soup",
+    "description": "Makes 6 servings (1 cup per serving)[span_59](start_span)[span_59](end_span).",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+      "4 cups butternut squash, cubed and roasted",
+      "1/2 onion, quartered and roasted",
+      "1/2 cup chestnuts, peeled and split in half",
+      "2 garlic cloves, smashed",
+      "3 tablespoons hazelnut oil",
+      "2 1/2 cups bone broth",
+      "1 tablespoon raw apple cider vinegar",
+      "1/4 teaspoon ground ginger",
+      "1/4 teaspoon ground herbes de Provence",
+      "1/8 teaspoon cinnamon",
+      "1/4 teaspoon salt",
+      "1/8 teaspoon pepper",
+      "Dash cayenne pepper",
+      "1 tablespoon crème fraîche (optional garnish)",
+      "1 tablespoon fresh thyme, finely minced (optional garnish)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 350°F. Seed, peel, and cube the butternut squash and place it in a roasting pan or glass baking dish. Cut the onion half into four wedges and add it to the butternut squash. Stir in the chestnut halves and smashed garlic cloves."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss the mixture with hazelnut oil and mix in apple cider vinegar, ginger, herbes de Provence, cinnamon, black pepper, and cayenne pepper. Roast for 45 minutes, or until the vegetables are tender and slightly brown."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the vegetables are roasting, measure out other ingredients. When the vegetables are ready, let them cool slightly so they're a little easier to handle."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the vegetables are cool, transfer them to a food processor or powerful blender. Add the bone broth 1/2 cup at a time and blend. Continue adding bone broth until the soup is the desired consistency."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the soup to a large saucepan and bring to a boil. Serve with optional garnishes as desired."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "5g",
+      "carbohydrateContent": "13g",
+      "proteinContent": "2g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Cacao Quinoa Cake",
+    "description": "Makes 8 servings (1 slice per serving, 8 slices per cake)[span_60](start_span)[span_60](end_span).",
+    "recipeYield": "8 servings",
+    "recipeIngredient": [
+      "2/3 cup quinoa",
+      "1/3 cup almond milk",
+      "1 1/3 cups apple sauce",
+      "3/4 cup coconut oil",
+      "2 teaspoons vanilla extract",
+      "1/4 cup honey",
+      "2 eggs",
+      "1/3 cup coconut sugar",
+      "1 cup raw cacao powder",
+      "1 1/2 teaspoons baking powder",
+      "1/2 teaspoon baking soda",
+      "1/2 teaspoon sea salt"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cook the quinoa per the package instructions. (Typically, the instructions are to rinse the quinoa grains, boil the grains with 1 1/2 cups water, reduce the heat, simmer for 10 minutes, let stand for 10 minutes, and let cool for 15 minutes.)"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the quinoa is cooking, measure all other ingredients and prepare an 8-inch square glass baking pan with coconut oil and oiled parchment paper at the bottom. Set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the quinoa is cool enough to handle, preheat the oven to 350°F."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a food processor, or powerful blender, pulse to blend in 3 stages: First, combine the almond milk, apple sauce, coconut oil, vanilla extract, and honey. Then add the cooked quinoa, eggs, and coconut sugar. Finally, pulse in the cacao powder, baking powder, baking soda, and salt."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer to the baking dish and bake for 1 hour and 25 minutes, or until a toothpick inserted in the center of the cake comes out clean."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "1g",
+      "carbohydrateContent": "25g",
+      "proteinContent": "3g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Avocado Blueberry Smoothie (V)",
+    "description": "Makes 4 servings (12 ounces per serving)[span_61](start_span)[span_61](end_span). Recipes with a (V) indicate a vegetarian selection[span_62](start_span)[span_62](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "4 cups unsweetened almond milk",
+      "2 avocados, pitted and scooped out of skin",
+      "4 cups baby spinach",
+      "2 cups frozen blueberries",
+      "1 cup frozen banana",
+      "1/4 cup flaxseed"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine all the ingredients in a large blender. Blend until totally smooth and then serve."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "32g",
+      "carbohydrateContent": "20g",
+      "proteinContent": "9g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Chocolatey Chia Fat Bombs (V)",
+    "description": "Makes 4 servings (2 fat bombs per serving)[span_63](start_span)[span_63](end_span). Recipes with a (V) indicate a vegetarian selection[span_64](start_span)[span_64](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "2/3 cup almonds",
+      "1/4 cup almond butter",
+      "1 tablespoon coconut oil",
+      "1 pitted date",
+      "1 teaspoon pure vanilla extract",
+      "1/4 cup unsweetened shredded coconut",
+      "2 tablespoons pumpkin seeds",
+      "2 tablespoons chia seeds",
+      "1 tablespoon cocoa powder",
+      "2 teaspoons cacao nibs",
+      "1/2 teaspoon sea salt"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine all the ingredients in a food processor. Pulse until all the nuts and seeds have mostly broken down and the ingredients begin to come together. Then leave the processor on until the mixture becomes almost smooth, releasing the natural oils and sticking together easily."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Form 8 balls with the fat bomb mixture. Transfer the fat bombs to the refrigerator to firm up for at least 30 minutes before eating. Store in an airtight container or ziplock bag in the refrigerator (or freezer for more long-term preservation)."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "29g",
+      "carbohydrateContent": "7g",
+      "proteinContent": "8.1g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Avocado and Smoked Salmon with PPP \"Everything Bagel\" Seasoning",
+    "description": "Makes 4 servings (1/2 an avocado and 3 ounces of salmon per serving)[span_65](start_span)[span_65](end_span). Includes recipe for PPP \"Everything Bagel\" Seasoning.",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "2 large avocados, pitted and scooped out of skin",
+      "12 ounces wild-caught smoked salmon",
+      "1 small lemon, cut into 4 wedges",
+      "4 tablespoons PPP \"Everything Bagel\" Seasoning",
+      "2 tablespoons toasted sesame seeds (for seasoning blend)",
+      "1 tablespoon dried minced garlic (for seasoning blend)",
+      "1 tablespoon dried minced onion (for seasoning blend)",
+      "1 tablespoon flaxseeds (for seasoning blend)",
+      "1 tablespoon hemp seeds (for seasoning blend)",
+      "2 teaspoons chia seeds (for seasoning blend)",
+      "2 teaspoons flaky sea salt (1 teaspoon if using regular fine-ground sea salt) (for seasoning blend)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine all the seasoning ingredients and keep stored in a small airtight container in your pantry. Give the blend a quick shake or stir before using to help evenly distribute all the delicious components."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Divide the avocado and salmon among 4 plates (1/2 an avocado and 3 ounces of salmon per plate)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Squeeze a wedge of lemon over each serving of avocado and then sprinkle a tablespoon of the seasoning blend over both the avocado and the salmon and serve."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "0g",
+      "carbohydrateContent": "1g",
+      "proteinContent": "0g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Fried Eggs with Kimchi",
+    "description": "Makes 4 servings (2 eggs per serving)[span_66](start_span)[span_66](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "3 tablespoons avocado oil",
+      "8 eggs",
+      "Sea salt",
+      "2 cups kimchi, chopped",
+      "Sriracha (optional)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat the oil in a large nonstick skillet over medium heat. Once the oil starts to shimmer, crack each egg into the pan. Season the eggs lightly with salt."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When you see the egg whites beginning to set, evenly add the kimchi to the pan, trying to avoid scooping it over the yolks so they don't break."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook until the egg whites are fully set around the kimchi and the yolks are cooked to your preferred doneness, about 3 to 4 minutes for a runny yolk. Garnish with sriracha if you like."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "10g",
+      "carbohydrateContent": "3g",
+      "proteinContent": "11g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Mixed-Nut Coconut Fat Bombs (V)",
+    "description": "Makes 4 servings (2 fat bombs per serving)[span_67](start_span)[span_67](end_span). Recipes with a (V) indicate a vegetarian selection[span_68](start_span)[span_68](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "1/3 cup pecans",
+      "1/3 cup hazelnuts",
+      "1/4 cup almond butter",
+      "1 tablespoon coconut oil",
+      "1 pitted date",
+      "1 teaspoon pure vanilla extract",
+      "1 tablespoon flaxseeds",
+      "1 tablespoon hemp seeds",
+      "1 tablespoon chia seeds",
+      "1/2 teaspoon cinnamon",
+      "1/2 teaspoon cardamom",
+      "1/2 teaspoon salt",
+      "1/2 cup unsweetened shredded coconut"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine all the ingredients, except for the shredded coconut, in a food processor. Pulse until all the nuts and seeds have mostly broken down and the ingredients begin to come together. Then leave the processor on until the mixture becomes almost smooth, releasing the natural oils and sticking together easily."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Scatter the shredded coconut in an even layer on a large plate. Form 8 balls with the fat bomb mixture. Roll each ball in the shredded coconut and then transfer them to the refrigerator to firm up for at least 30 minutes before eating. Store in an airtight container or ziplock bag in the refrigerator (or freezer for more long-term preservation)."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "32g",
+      "carbohydrateContent": "6g",
+      "proteinContent": "6g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Burger Patty with Guacamole",
+    "description": "Makes 4 servings (1 burger per serving)[span_69](start_span)[span_69](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "1 pound ground beef",
+      "2 tablespoons avocado oil, divided",
+      "1 tablespoon coconut aminos",
+      "1 egg, lightly beaten",
+      "1/4 cup almond meal",
+      "1 small onion, finely chopped",
+      "3 garlic cloves, grated",
+      "1 teaspoon sea salt",
+      "1 teaspoon freshly ground black pepper",
+      "1/2 small red onion, roughly chopped",
+      "1 small jalapeño, seeded and roughly chopped",
+      "1 medium heirloom or vine-ripened tomato, roughly chopped",
+      "1/2 cup cilantro",
+      "2 avocados, pitted and scooped out of skins",
+      "1 lime, cut into wedges",
+      "Sea salt"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine all the ingredients for the burgers in a large bowl (just reserve 1 of the tablespoons of oil). Using clean hands, combine all the ingredients for the burgers thoroughly, then set aside for the flavors to meld while you prepare the guacamole."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the onion, jalapeño, tomato, and cilantro in a food processor and pulse until the mixture is roughly diced. Transfer the mixture to a large bowl with the avocado."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mash the avocado and onion mixture using a fork until it reaches your preferred consistency-chunky, smooth, or somewhere in between."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the juice from a couple of lime wedges, season with salt to taste, then set aside and cook the burgers."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the reserved tablespoon of oil in a large cast-iron skillet over medium-high heat. While the cast iron heats, form 4 patties. Once the oil begins to shimmer, place the burgers in the skillet. Cook for 4 to 5 minutes per side, or until cooked to your preferred doneness."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the burgers with a generous scoop of guacamole on top and a wedge of lime."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "26g",
+      "carbohydrateContent": "7g",
+      "proteinContent": "39g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Vanilla Bean Chia Pudding with Berries and Chocolate (V)",
+    "description": "Makes 4 servings (1/2 cup per serving)[span_70](start_span)[span_70](end_span). Recipes with a (V) indicate a vegetarian selection[span_71](start_span)[span_71](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "2 cups full-fat coconut milk",
+      "2 teaspoons vanilla bean paste or extract",
+      "1/4 cup chia seeds",
+      "Pinch of salt",
+      "2 cups fresh berries of your choice",
+      "4 ounces vegan 70 percent dark chocolate"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine all the ingredients for the chia pudding in a medium mixing bowl. Transfer the mixture to a container with a fitted lid and place in the refrigerator. For the first 30 minutes, stir the pudding every 10 minutes so the seeds distribute evenly while it sets up."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Allow the pudding to gel in the refrigerator for at least 2 hours or overnight."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the pudding topped with the berries of your choice. For the finishing touch, grate the dark chocolate over each serving."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "12g",
+      "carbohydrateContent": "14g",
+      "proteinContent": "4g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Tuna Salad-Stuffed Avocado",
+    "description": "Makes 4 servings (1 avocado half per serving)[span_72](start_span)[span_72](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "Two 4-ounce cans tuna packed in oil",
+      "1/4 cup keto-approved mayonnaise",
+      "1 lemon, juiced and zested",
+      "1 medium shallot, finely chopped",
+      "2 tablespoons freshly chopped dill",
+      "Sea salt",
+      "Freshly ground black pepper",
+      "2 large avocados, pitted and halved with skin left on",
+      "2 cups fermented vegetables of your choosing, such as dill pickles, kimchi, or curtido, etc."
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine the first 5 ingredients in a medium mixing bowl. Use a fork to flake the tuna and fully incorporate it with the other ingredients. Season with salt and pepper to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Divide the tuna salad evenly among the 4 open-face avocado halves. Serve each stuffed avocado with 1/2 cup of fermented veggies on the side."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "23g",
+      "carbohydrateContent": "3g",
+      "proteinContent": "6g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Strawberry Mint Kefir Smoothie (V)",
+    "description": "Makes 4 servings (12 ounces per serving)[span_73](start_span)[span_73](end_span). Recipes with a (V) indicate a vegetarian selection[span_74](start_span)[span_74](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "4 cups raw kefir",
+      "2 cups frozen strawberries",
+      "1 cup frozen banana",
+      "8 to 10 fresh mint leaves",
+      "2 tablespoons hemp seeds",
+      "2 tablespoons chia seeds"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine all the ingredients in a large blender. Blend until totally smooth and serve. If your blender is too small to accommodate all 4 servings, simply make the smoothies in 2 batches."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "6g",
+      "carbohydrateContent": "24g",
+      "proteinContent": "12g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Garlicky Cider Spinach with Jammy Eggs",
+    "description": "Makes 4 servings (1 cup per serving)[span_75](start_span)[span_75](end_span).",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "8 eggs",
+      "2 tablespoons ghee",
+      "6 garlic cloves, minced",
+      "8 cups spinach",
+      "2 tablespoons apple cider vinegar",
+      "Sea salt",
+      "Freshly ground black pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Bring a large pot of water to a rolling boil over high heat, then reduce the heat to medium so the water simmers down to a gentle boil. Gently lower the eggs into the water using a slotted spoon and cook for 7 to 7 1/2 minutes. While the eggs are in the pot, fill a large bowl with ice and cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Immediately transfer the cooked eggs to the ice bath to prevent further cooking while you prepare the spinach."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the ghee in a large skillet over medium-high heat. Once the oil begins to shimmer, add the garlic and cook for 30 seconds, then add the spinach and vinegar. Cook and stir until the spinach is fully wilted and the moisture released from the leaves reduces by half. Turn off the heat and season the spinach with salt and pepper to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel the eggs, cut them in half, and season them lightly with a pinch of salt. Divide the spinach among 4 bowls and top each with 2 eggs (4 halves)."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "15g",
+      "carbohydrateContent": "3g",
+      "proteinContent": "13g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Spiced Coconut Curry Hummus (V)",
+    "description": "Makes 3 1/2 cups (28 servings, 2 tablespoons per serving)[span_76](start_span)[span_76](end_span). Recipes with a (V) indicate a vegetarian selection[span_77](start_span)[span_77](end_span).",
+    "recipeYield": "28 servings",
+    "recipeIngredient": [
+      "6 cups chickpeas, drained",
+      "2 garlic cloves",
+      "2 tablespoons coconut manna",
+      "2 tablespoons tahini",
+      "1/4 cup lime juice",
+      "4 tablespoons water",
+      "1 teaspoon garlic powder",
+      "8 teaspoons yellow curry powder",
+      "1/2 teaspoon ground turmeric",
+      "4 teaspoons honey",
+      "1/3 cup olive oil",
+      "Sea salt and pepper to taste",
+      "2 tablespoons shredded coconut, unsweetened",
+      "1/2 cup jalapeño, finely diced"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine everything except the shredded coconut and jalapeño in a powerful blender. If the mixture is too thick, add more water and/or olive oil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the desired consistency is achieved, spoon in the shredded coconut and diced jalapeño."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "3g",
+      "carbohydrateContent": "3g",
+      "proteinContent": "1g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Coconut Cacao Chia Pudding (V)",
+    "description": "Makes approximately 4 1/2 cups (13 servings, 1/3 cup per serving)[span_78](start_span)[span_78](end_span). Recipes with a (V) indicate a vegetarian selection[span_79](start_span)[span_79](end_span).",
+    "recipeYield": "13 servings",
+    "recipeIngredient": [
+      "3 cups coconut milk",
+      "2/3 cup chia seeds",
+      "1/2 cup raw cacao powder",
+      "1 teaspoon vanilla extract",
+      "1/2 teaspoon sea salt",
+      "1 teaspoon ground cinnamon (optional)",
+      "1/3 cup maple syrup (optional)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine all the ingredients, including the cinnamon and maple syrup, if using, in a large mixing bowl and blend vigorously."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chill in the fridge between 3 hours and overnight. The goal is for the mixture to have a pudding-like consistency and to be chilled through. Leftovers keep covered in the fridge for 2 to 3 days, though this pudding is best when it's fresh. Serve chilled."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "9g",
+      "carbohydrateContent": "6g",
+      "proteinContent": "3g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Pumpkin Spice Spread (V)",
+    "description": "Makes 2 1/2 cups (20 servings, 2 tablespoons per serving)[span_80](start_span)[span_80](end_span). Recipes with a (V) indicate a vegetarian selection[span_81](start_span)[span_81](end_span).",
+    "recipeYield": "20 servings",
+    "recipeIngredient": [
+      "1 cup raw pumpkin seeds",
+      "1 cup almond flour",
+      "3/4 cup pumpkin puree",
+      "1/2 cup pumpkin oil (use less for a thicker consistency)",
+      "1 tablespoon lemon juice",
+      "2 teaspoons cinnamon",
+      "1 teaspoon cardamom",
+      "2 tablespoons plus 1 teaspoon honey",
+      "1/2 teaspoon cloves",
+      "Freshly ground nutmeg",
+      "1 cup grated green apple"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place the pumpkin seeds in a powerful blender and pulse until they are finely ground."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the remaining ingredients and blend to your desired consistency."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the spread to a glass storage container; it will keep in the fridge for 5 to 7 days."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "25g",
+      "carbohydrateContent": "3g",
+      "proteinContent": "2g"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Basic Beef Bone Broth",
+    "description": "Makes 6 to 8 cups (approximately 1 cup per serving)[span_82](start_span)[span_82](end_span).",
+    "recipeYield": "6 to 8 cups",
+    "recipeIngredient": [
+      "2 pounds grass-fed beef bones",
+      "2 tubers of organic turmeric, cut into large pieces",
+      "3 organic garlic cloves, peeled",
+      "1 medium onion, cut into large cubes",
+      "2 tablespoons apple cider vinegar"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wash the bones and place them in the bottom of a slow cooker."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the turmeric pieces, whole garlic cloves, and onions to the bones."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add enough water to fill to the top of the slow cooker, then add in the apple cider vinegar."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Set on medium heat for the first hour. Periodically watch for any foam that might appear at the beginning of cooking. Scrape this foam off as you see it form."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "After 1 hour, turn down the heat to low and let the broth cook for 48 hours before you drink it."
+      }
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "fatContent": "14g",
+      "carbohydrateContent": "0g",
+      "proteinContent": "18g"
+    }
+  }
+]
